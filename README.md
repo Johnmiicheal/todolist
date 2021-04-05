@@ -8,10 +8,6 @@
 
 --------------------------------------------------------------------
 
-![Unit Tests](https://github.com/Johnmiicheal/todolist/workflows/Unit%20Tests/badge.svg)
-
-
-
 
 
 
