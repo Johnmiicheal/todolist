@@ -14,5 +14,6 @@
 ### Every beginners dream project
 
 
-Why haven't I finished this yet....Its definitely not because I'm lazy
+I'm finally done with this crap and it looks terrible...
+
 

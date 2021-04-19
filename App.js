@@ -38,9 +38,7 @@ export default function App() {
               )
             })
           }
-          {/* <Task text={'Task 1'} />
-          <Task text={'Task 2'} /> */}
-
+         
         </View>
 
       </View>
@@ -66,10 +64,9 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-
     marginTop: 60,
     flex: 1,
-    backgroundColor: '#EBEAED',
+    backgroundColor: '#000',
   },
   tasksWrapper: {
     paddingTop: 10,
@@ -78,6 +75,7 @@ const styles = StyleSheet.create({
   },
   sectionTitle: {
     fontSize: 20,
+    color: '#D4AF37',
 
   },
   items: {
@@ -85,7 +83,7 @@ const styles = StyleSheet.create({
   },
   writeTaskWrapper: {
     position: 'absolute',
-    bottom: 60,
+    bottom: 30,
     width: '100%',
     flexDirection: 'row',
     justifyContent: 'space-between',
@@ -98,7 +96,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     borderRadius: 60,
     borderColor: '#D4AF37',
-    borderWidth: 1,
+    borderWidth: 2,
     width: 300,
   },
   addWrapper: {
@@ -109,7 +107,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     borderColor: '#D4AF37',
-    borderWidth: 1,
+    borderWidth: 2,
   },
   addText: {},
 });

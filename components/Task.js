@@ -17,12 +17,15 @@ const styles = StyleSheet.create({
     backgroundColor: "#FFF",
     padding: 15,
     borderRadius: 15,
+    borderWidth: 2,
+    borderColor: '#D4AF37',
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'space-between',
-   
+    justifyContent: 'space-between',  
+     
     marginBottom: 20,
   },
+
   itemLeft: {
       flexDirection: 'row',
       alignItems: 'center',
