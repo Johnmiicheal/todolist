@@ -18,8 +18,8 @@
 I'm finally done with this crap and it looks terrible...
 
 
-<img align="left"  src="https://user-images.githubusercontent.com/69642932/115295044-3ba4a180-a151-11eb-9474-91cea7bfaaf4.png">
-<img align="left"  src="https://user-images.githubusercontent.com/69642932/115295051-3cd5ce80-a151-11eb-95f9-ec99d33bb4e6.png">
+<img align="left" width= 200px src="https://user-images.githubusercontent.com/69642932/115295044-3ba4a180-a151-11eb-9474-91cea7bfaaf4.png">
+<img align="left" width= 200px src="https://user-images.githubusercontent.com/69642932/115295051-3cd5ce80-a151-11eb-95f9-ec99d33bb4e6.png">
 
 
 
